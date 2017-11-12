@@ -1,0 +1,8 @@
+I've been trying to get my flight controller to show on cleanflight for over 10 hours with no luck. I've been trying to get this to work for both a SP Racing F3 standard and a SP Racing F3 deluxe and I've tried:
+Installing/updating drivers (CP210x, STM USB VCP)
+Ran Zadig to update WIN driver
+Running impulseXC driver fixer
+Used two different computers (one mac which connected initially to controller then disconnected after 10 seconds and one windows which fails to connect to port)
+Using multiple USB cords
+I've also tried to boot it while holding a wire across the boot pads and then flashing the firmware, to no avail.
+Does anyone know what I might be doing wrong? Have watched a tremendous amount of youtube videos and done large amounts of research which have not been helpful. This is my first DIY and is almost ready to fly. Would greatly appreciate any help!
